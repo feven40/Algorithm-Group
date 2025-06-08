@@ -55,3 +55,4 @@ struct Road {
         throw std::runtime_error("Tried to process vehicle from empty queue");
     }
 };
+}fggh
